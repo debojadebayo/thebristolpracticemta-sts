@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: mail.bristolpractice.co.uk
+mx: *.bristolpractice.co.uk
+max_age: 604800

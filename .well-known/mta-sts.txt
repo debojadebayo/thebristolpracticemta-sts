@@ -1,5 +1,4 @@
-version: STSv1
-mode: enforce
-mx: mail.bristolpractice.co.uk
-mx: *.bristolpractice.co.uk
+ms: version: STSv1
+mode: testing
+mx: smtp.google.com
 max_age: 604800
